@@ -11,7 +11,7 @@ Este repositorio representa la presencia oficial de la organización New Age Cod
   <!-- Enlaces corporativos -->
   <a href="https://github.com/NewAgeCodingOrganization-Organization">
     <img src="https://img.shields.io/badge/GitHub-NewAgeCodingOrganization-Organization?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
+  </a><br>
   <a href="mailto:contacto@newagecoding.org">
     <img src="https://img.shields.io/badge/Email-contacto@newagecoding.com-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
