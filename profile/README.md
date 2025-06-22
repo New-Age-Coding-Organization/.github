@@ -90,7 +90,7 @@ Fundador & Director de General
 
 ## 📌 Repositorios públicos destacados
 
-> Muy pronto, aquí encontrarás herramientas open-source y plantillas diseñadas por nuestros consultores.
+> Muy pronto, aquí encontrarás herramientas open-source y plantillas diseñadas por nuestros consultores. <br>
 > [TikTok|Auto Tap-Tap](https://github.com/New-Age-Coding-Organization/TikTok.Auto_Tap-Tap)
 
 --- 
